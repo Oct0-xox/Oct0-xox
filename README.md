@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Oct0-xox)
+
 ```py
 def octo():
     username = 'Oct0-xox'
