@@ -5,5 +5,5 @@ def octo():
     username = 'Oct0-xox'
     discord = '</Octo>#0001'
     age = 14
-    languages = ['python', 'html', 'css']
+    languages = ['python', 'html', 'css', 'some js']
 ```
