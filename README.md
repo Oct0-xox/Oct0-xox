@@ -1,3 +1,4 @@
+```py
 
 class octo:
     def __init__(self):
@@ -14,4 +15,4 @@ class octo:
 if __name__ == "__main__":
     octo()
 
-  
+  ```
