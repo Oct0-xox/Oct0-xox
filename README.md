@@ -6,8 +6,7 @@ class octo:
         self.alias = "octo"
         self.age = 14
         self.programing_language = {
-            "python": "Main programing langauge.",
-            "html": "Is this even a language? lol.",
+            "python": "Main programing langauge, most fluent.",
             "css": "I guess?",
             "go": "Recently started learning."
         }
