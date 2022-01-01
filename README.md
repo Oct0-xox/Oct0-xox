@@ -7,7 +7,6 @@ class octo:
         self.age = 14
         self.programing_language = {
             "python": "Main programing langauge, most fluent.",
-            "css": "I guess?",
             "go": "Recently started learning."
         }
 
